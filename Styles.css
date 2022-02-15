@@ -1,0 +1,26 @@
+h3{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    height: 0px;
+}
+
+.black_card{
+    color: black;
+    font-size: 30px;
+}
+
+.red_card{
+    color: red;
+    font-size: 30px;
+}
+
+.player p{
+    display: inline-block;
+    border-radius: initial;
+    background-color: lightgrey;
+    margin-bottom: 10px;
+    width: 55px;
+    height: 35px;
+    text-align: center;
+}
